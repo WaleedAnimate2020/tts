@@ -831,6 +831,7 @@
         "voices": [
             {"vid": "4-3-1", "name": "Bridget", "flag": "GB", "lang": "English", "accent": "British", "gender": "F"},
             {"vid": "6-2-1", "name": "Catherine", "flag": "GB", "lang": "English", "accent": "British", "gender": "F"},
+            {"vid": "6-1-1", "name": "Charles", "flag": "GB", "lang": "English", "accent": "British", "gender": "M"},            
             {"vid": "5-4-1", "name": "Daniel", "flag": "GB", "lang": "English", "accent": "British", "gender": "M"},
             {"vid": "4-2-1", "name": "Elizabeth", "flag": "GB", "lang": "English", "accent": "British", "gender": "F"},
             {"vid": "5-3-1", "name": "Hugh", "flag": "GB", "lang": "English", "accent": "British", "gender": "M"},
